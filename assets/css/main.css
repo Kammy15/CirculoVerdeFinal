@@ -1062,7 +1062,7 @@ section, .section {
   align-items: center;
   justify-content: center;
   width: 100%;
-  padding: 0px 10% 30px 10%;
+  padding:0px 12px 35px;
   text-align: center;
  
 
@@ -1095,7 +1095,7 @@ section, .section {
 @media (max-width: 576px) {
   .section-title p {
     line-height: 1.0; /* Ajusta este valor según sea necesario */
-    font-size: 24px;
+    font-size: 26px;
   }
   .section-title h2 {
     font-size: 13px;
